@@ -35,6 +35,15 @@ Launch goto {netflix|Text} channel
 Launch goto {plex|Text} channel
 Launch goto {fandango now|Text} channel
 
+Launch launch {usa|Text}
+Launch start {usa|Text}
+Launch open {usa|Text}
+Launch goto {usa|Text}
+Launch launch {usa|Text} network
+Launch start {usa|Text} network
+Launch open {usa|Text} network
+Launch goto {usa|Text} network
+
 Home home
 Home go home
 Home go to home
