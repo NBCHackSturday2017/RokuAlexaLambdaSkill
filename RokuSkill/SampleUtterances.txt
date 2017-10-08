@@ -53,15 +53,15 @@ Launch start {syfy|Text} network
 Launch open {syfy|Text} network
 Launch goto {syfy|Text} network
 
-Play play {show}
-Play start {show}
-Play resume {show}
-Play continue {show}
+Play play {Show}
+Play start {Show}
+Play resume {Show}
+Play continue {Show}
 
-PlayLatest play the latest episode of {show}
-PlayLatest play the new episode of {show}
+PlayLatest play the latest episode of {Show}
+PlayLatest play the new episode of {Show}
 
-PlayFirst play the first episode of {show}
+PlayFirst play the first episode of {Show}
 
 Recommend what do you recommend? 
 Recommend what should I watch next?
@@ -69,10 +69,10 @@ Recommend what else shoudl I watch?
 Recommend recommend a new show
 Recommend recommend something I like
 
-DescribeShow what's {show} about?
-DescribeShow tell me more about {show}
-DescribeShow tell me about {show}
-DescribeShow show me {show}
+DescribeShow what's {Show} about?
+DescribeShow tell me more about {Show}
+DescribeShow tell me about {Show}
+DescribeShow show me {Show}
 
 Home home
 Home go home
