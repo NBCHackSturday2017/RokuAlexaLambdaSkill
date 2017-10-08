@@ -14,6 +14,38 @@
       ]
     },
     {
+      "intent": "Play",
+      "slots": [
+        "name": "Show",
+        "Type": "LIST_OF_SHOWS"
+      ]
+    },
+    {
+      "intent": "PlayLatest",
+      "slots": [
+        "name": "Show",
+        "Type": "LIST_OF_SHOWS"
+      ]
+    },
+    {
+      "intent": "PlayFirst",
+      "slots": [
+        "name": "Show",
+        "Type": "LIST_OF_SHOWS"
+      ]
+    },
+    {
+      "intent": "DescribleShow",
+      "slots": [
+        "name": "Show",
+        "Type": "LIST_OF_SHOWS"
+      ]
+    },
+    {
+      "intent": "Recommend",
+      "slots": []
+    },
+    {
       "intent": "Fastforward",
       "slots": []
     },
