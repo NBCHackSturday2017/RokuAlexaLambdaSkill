@@ -44,6 +44,36 @@ Launch start {usa|Text} network
 Launch open {usa|Text} network
 Launch goto {usa|Text} network
 
+Launch launch {syfy|Text}
+Launch start {syfy|Text}
+Launch open {syfy|Text}
+Launch goto {syfy|Text}
+Launch launch {syfy|Text} network
+Launch start {syfy|Text} network
+Launch open {syfy|Text} network
+Launch goto {syfy|Text} network
+
+Play play {show}
+Play start {show}
+Play resume {show}
+Play continue {show}
+
+PlayLatest play the latest episode of {show}
+PlayLatest play the new episode of {show}
+
+PlayFirst play the first episode of {show}
+
+Recommend what do you recommend? 
+Recommend what should I watch next?
+Recommend what else shoudl I watch?
+Recommend recommend a new show
+Recommend recommend something I like
+
+DescribeShow what's {show} about?
+DescribeShow tell me more about {show}
+DescribeShow tell me about {show}
+DescribeShow show me {show}
+
 Home home
 Home go home
 Home go to home
